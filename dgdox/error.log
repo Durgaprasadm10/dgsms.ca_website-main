@@ -1,0 +1,28 @@
+[Wed Sep 30 11:00:07.634128 2020] [:error] [pid 18553] [client 34.245.136.194:38190] script '/var/www/dgsmsca.com/dgdox/wp-login.php' not found or unable to stat
+[Thu Oct 01 12:30:07.871169 2020] [:error] [pid 16209] [client 207.46.13.142:4869] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/french/contact.php on line 102
+[Thu Oct 01 15:29:53.315807 2020] [:error] [pid 20280] [client 194.58.122.71:34646] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Fri Oct 02 17:22:02.036802 2020] [:error] [pid 25000] [client 103.146.202.150:56432] script '/var/www/dgsmsca.com/dgdox/wp-login.php' not found or unable to stat
+[Sat Oct 03 01:27:04.842072 2020] [:error] [pid 4983] [client 194.58.122.71:46492] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Sat Oct 03 20:55:38.106581 2020] [:error] [pid 24022] [client 17.58.97.95:32793] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/contact.php on line 100
+[Sun Oct 04 01:31:11.586325 2020] [:error] [pid 5456] [client 194.58.122.71:55484] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Mon Oct 05 01:31:17.512281 2020] [:error] [pid 14231] [client 194.58.122.71:49146] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Tue Oct 06 01:33:20.126883 2020] [:error] [pid 28808] [client 194.58.122.71:54860] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Tue Oct 06 08:54:17.079159 2020] [:error] [pid 4902] [client 104.248.120.105:43360] script '/var/www/dgsmsca.com/dgdox/wp-login.php' not found or unable to stat
+[Tue Oct 06 08:54:17.103064 2020] [:error] [pid 4642] [client 104.248.120.105:43364] script '/var/www/dgsmsca.com/dgdox/wp-login.php' not found or unable to stat
+[Wed Oct 07 01:34:44.273044 2020] [:error] [pid 1018] [client 194.58.122.71:45438] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Wed Oct 07 21:11:35.719968 2020] [:error] [pid 6326] [client 142.93.66.165:51496] script '/var/www/dgsmsca.com/dgdox/wp-login.php' not found or unable to stat
+[Wed Oct 07 22:57:39.928771 2020] [core:error] [pid 9342] [client 150.242.14.199:54770] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Thu Oct 08 01:36:06.389954 2020] [:error] [pid 26833] [client 194.58.122.71:48436] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Fri Oct 09 00:56:30.988498 2020] [:error] [pid 10314] [client 144.76.29.148:37140] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/contact.php on line 100
+[Fri Oct 09 00:56:59.455843 2020] [:error] [pid 10275] [client 144.76.29.148:39452] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102
+[Fri Oct 09 01:37:21.379028 2020] [:error] [pid 10865] [client 194.58.122.71:59314] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Sat Oct 10 01:39:11.988418 2020] [:error] [pid 14594] [client 194.58.122.71:38930] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Sat Oct 10 21:24:06.153093 2020] [:error] [pid 7772] [client 207.46.13.70:8104] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102
+[Sun Oct 11 01:41:04.284896 2020] [:error] [pid 8059] [client 194.58.122.71:42060] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Sun Oct 11 08:20:16.259179 2020] [:error] [pid 23143] [client 157.55.39.78:3068] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/french/white-papers.php on line 107
+[Mon Oct 12 01:42:43.481370 2020] [:error] [pid 19442] [client 194.58.122.71:56014] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Mon Oct 12 07:27:31.211208 2020] [:error] [pid 30115] [client 157.55.39.78:3738] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/french/white-papers.php on line 107
+[Tue Oct 13 01:43:52.697871 2020] [:error] [pid 21942] [client 194.58.122.71:37364] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php
+[Tue Oct 13 14:29:50.108275 2020] [:error] [pid 24136] [client 157.55.39.78:5498] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/french/white-papers.php on line 107
+[Tue Oct 13 20:56:26.962165 2020] [:error] [pid 27215] [client 157.55.39.78:6071] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/french/white-papers.php on line 107
+[Wed Oct 14 01:44:47.090524 2020] [:error] [pid 11467] [client 194.58.122.71:56508] PHP Notice:  Undefined variable: succ in /var/www/dgsmsca.com/dgdox/white-papers.php on line 102, referer: http://testdgdox.dgsmsus.com/white-papers.php

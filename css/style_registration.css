@@ -1,0 +1,118 @@
+.form_body_ai{
+    /* margin-top: 100px; */
+    padding-top: 140px;
+    background-image: url(../img/webinar_BG.jpg);
+    min-height: 1000px;
+}
+.page_wrapper{
+    display: flex;
+    align-items: center;
+   
+}
+.registration_form_ai{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    min-width: 95%;
+    margin-left: 50px;
+}
+.web_header_ai{
+    color: rgb(194, 18, 18);
+    text-align: left;
+    justify-content: space-between;
+}
+.web_text_ai{
+    color: white;
+    font-weight: 300;
+}
+.web_subheader_ai{
+    color: white;
+}
+.web_reward_ai{
+    color:rgb(194, 18, 18);
+    font-weight: 600;
+    font-size: 20px;
+}
+.speaker_subheader_ai{
+    color: rgb(194, 18, 18);
+    font-size: 20px;
+}
+.speaker_name{
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+}
+.speaker_group{
+    display: flex;
+    align-items: center;
+    
+}
+.info{
+    width:50%;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+.registration{
+    display: flex;
+    justify-content: center;
+}
+.form_header{
+    color:rgb(194, 18, 18);
+    font-weight: 700;
+    font-size: 20px;
+}
+.btn_blue_y_o{
+    color:white;
+    background-color:rgb(194, 18, 18);
+    border: none;
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+    transition: all 0.8s ease;
+    margin-top: 20px;
+}
+.btn_blue_y_o:hover{
+    color:white;
+    background-color:rgb(124, 8, 8);
+ cursor: pointer;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.form-control{
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: solid black 0.5px;
+    height: 40px;
+    padding-left: 10px;
+}
+select{
+    width: 90%;
+    border: solid black 0.5px;
+    padding-left: 10px;
+
+}
+@media (max-width: 1000px) {
+
+    .page_wrapper{
+       flex-direction: column;
+       
+    }
+    .info{
+        width:90%;
+        padding-right: 0px;
+    }
+    .registration_form_ai{
+       margin-top: 30px;
+       margin-bottom: 20px;
+    }
+    .form_body_ai{
+
+        padding-top: 70px;
+       
+    }
+    
+}

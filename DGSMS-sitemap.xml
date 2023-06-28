@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.dgsms.ca/</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/about_eng.html</loc>
+  <lastmod>2020-07-14T15:23:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGsms_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGCheck_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGdox_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGRMA_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGVFF_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGSDS_eng.html</loc>
+  <lastmod>2020-07-14T16:27:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGSOS_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/Checklists_eng.html</loc>
+  <lastmod>2020-07-14T16:34:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/index_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/DGSOS_eng.html</loc>
+  <lastmod>2020-07-17T10:37:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/dgmobi_eng.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/pages/technical_eng.html</loc>
+  <lastmod>2020-07-17T10:37:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/index.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/about_fr.html</loc>
+  <lastmod>2020-07-17T10:40:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGsms_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGCheck_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGdox_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGRMA_fr.html</loc>
+  <lastmod>2020-07-17T10:40:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGVFF_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGSDS_fr.html</loc>
+  <lastmod>2020-07-17T10:41:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGSOS_fr.php</loc>
+  <lastmod>2020-07-17T17:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/Checklist_fr.html</loc>
+  <lastmod>2020-07-17T10:40:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/checklists/Driver-checklist-TDG-CA.pdf</loc>
+  <lastmod>2020-04-30T04:45:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/checklists/Driver-checklist-49CFR-USA.pdf</loc>
+  <lastmod>2020-04-30T04:45:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/technical_fr.html</loc>
+  <lastmod>2020-07-17T10:41:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.dgsms.ca/fr/pages/DGSOS_fr.html</loc>
+  <lastmod>2020-07-17T10:41:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

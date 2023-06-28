@@ -1,0 +1,1 @@
+[Fri Oct 09 10:35:06.094190 2020] [:error] [pid 23132] [client 42.157.195.85:38542] PHP Notice:  Undefined variable: env_var in /var/www/dgsmsca.com/dgmobi/dbconfig.php on line 3

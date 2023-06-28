@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+
+# Turn on Rewrite Engine
+RewriteEngine On
+
+# Condition: If http host is "dgsmsusa.com" (flags: NC - Not case-sensitive; OR - or)
+RewriteCond %{HTTP_HOST} ^dgsmsusa\.com [NC,OR]
+
+# Condition: If http host is "www.dgsmsusa.com" (flags: Not case-sensitive)
+RewriteCond %{HTTP_HOST} ^www\.dgsmsusa\.com [NC]
+RewriteCond %{HTTP_HOST} ^www\.dgsms\.ca [NC]
+
+# Rule: Take the query string from URL and append it in the place of $1.
+# Redirect to specified URL.
+# (flags: R=301 - Redirect with status code 301; L - Last; NC - Not case-sensitive)
+RewriteRule ^(.*)$ https://dgsms\.ca/$1 [R=301,L,NC]
+
+</IfModule>

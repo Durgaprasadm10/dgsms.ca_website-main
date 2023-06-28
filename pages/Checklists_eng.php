@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HAZMAT Mobile App, Dangerous Goods Shipping App | DGSMS</title>
+    <meta name="description" content="HAZMAT dangerous goods hauling solution IMDG regulations Segregations Placards">
+    <link rel="stylesheet" href="../css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="../css/bootstrap-grid.min.css">
+    <link rel="shortcut icon" href="../icn/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style_DGdox.css">
+    <link rel="stylesheet" href="../css/dg-forms-red.css">
+    <link rel="stylesheet" href="../css/dg-forms.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <link rel="stylesheet" href="../css/vertical-rhythm.min.css">
+    <link rel="stylesheet" href="../css/style-responsive.css">
+    <!-- <link rel="stylesheet" href="../css/style2.css"> -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177256159-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177256159-1');
+</script>
+<script type="text/javascript"> window.$crisp=[];window.CRISP_WEBSITE_ID="9f521e67-7326-41bf-8dac-e6518d8bd805";(function(){ d=document;s=d.createElement("script"); s.src="https://client.crisp.chat/l.js"; s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})(); </script>
+</head>
+
+<body>
+    <header>
+		<div class="container">
+			<div class="header-social-links">
+                        
+                        <a rel="canonical" href="https://www.facebook.com/DGMOBI" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a rel="canonical" href="https://www.facebook.com/dgsmsproducts" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a rel="canonical" href="https://twitter.com/DGSMS_r" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a rel="canonical" href="https://in.linkedin.com/company/ideabytes-inc" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+			</div>
+        <nav>
+            <div class="container">
+                <a href="https://www.ideabytes.com" target="_blank"><img src="../icn/IB_logo_white.png"
+                        alt="Ideabytes logo Web/mobile Solutions Dangerous Goods/HAZMAT Air, Sea, Road Transport (TDG, IATA, IMDG, 49-CFR)"
+                        class="logo"></a>
+                <ul class="menu">
+                    <li class="menu_item"><a href="../index.php" class="link">home</a></li>
+                    <li class="menu_item"><a href="../pages/about_eng.html" class="link">about</a></li>
+                    <li class="menu_item"><a href="#" class="link_submenu_ch">products</a>
+                        <ul class="submenu">
+                            <li class="product_link"><a href="../pages/dgmobi_eng.php" class="link_submenu2" target="_blank">DGMobi
+                                    <sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGsms_eng.php"
+                                    class="link_submenu2">DGSMS<sup>®</sup></a></li>
+                            <li class="product_link"><a href="../pages/DGCheck_eng.php"
+                                    class="link_submenu2">DGCheck<sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGdox_eng.php"
+                                    class="link_submenu2">DGDOX<sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGRMA_eng.php"
+                                    class="link_submenu2">DGRMA<sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGVFF_eng.php"
+                                    class="link_submenu2">DGVFF<sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGSDS_eng.html"
+                                    class="link_submenu2">DGSDS<sup><small>tm</small></sup></a></li>
+                            <li class="product_link"><a href="../pages/DGSOS_eng.php"
+                                    class="link_submenu2">DGSOS<sup><small>tm</small></sup></a></li>
+                        </ul>
+                    </li>
+                    <li class="menu_item"><a href="http://dgmobi.com/checklist.php" class="link2">checklist</a></li>
+                    <li class="menu_item"><a href="../pages/blog.html" class="link">blog</a></li>
+                    <li class="menu_item"><a href="../pages/FAQ.html" class="link">FAQ</a></li>
+                    <li class="menu_item"><a href="../fr/pages/Checklist_fr.php" class="link_lang"><img
+                                src="../icn/french-flag.png" alt="english lnguage" class="eng"></a></li>
+                    <!-- <ul class="lang_menu">
+                <li>
+                    <a href="../fr/pages/DGCheck_fr.html" class="eng">fr</a>
+                </li>
+            </ul> -->
+                </ul>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <section class="page-section cont">
+        <div class="container relative">
+
+            <!--<h2 class="section-title font-alt align-left mb-sm-40" style="color: #fff">
+           7-Step Driver Checklist for DG pickup </h2> -->
+            <div class="row">
+                <h1 class="section-title">Enter your details and be eligible to win a free copy of DGMobi™ . One Drawn
+                    every month</h1>
+            </div>
+
+            <div class="section-text mb-30 mb-sm-20">
+
+                <div class="row">
+                    <div class="col-md-6 mb-xs-30">
+                        <form action="" method="POST" class="dg-form">
+                            <header class="form_header">7-Step Driver Checklist for DG pickup - TDG <br> Fill the
+                                details and Download Pdf
+
+                                <!-- <span class="reffrd"></span> -->
+                            </header>
+                            <fieldset>
+                                <p><a><img src="../img/tdg-checklist.jpg"
+                                            alt="7-Step Driver Checklist for DG pickup - TDG"></a><br><br>
+
+                                </p>
+                                <div class="row">
+                                    <section class="col col-6">
+                                        <label class="label">Name<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-user"></i>
+                                            <input type="text" name="tdg_user_name" id="tdg_user_name" maxlength="50">
+                                            <span class="tdg_user_name_err color-red"></span>
+                                        </label>
+                                    </section>
+                                    <section class="col col-6">
+                                        <label class="label">E-mail<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-envelope-o"></i>
+                                            <input type="email" name="tdg_email" id="tdg_email">
+                                            <span class="tdg_email_err color-red"></span>
+                                        </label>
+                                    </section>
+                                </div>
+
+                                <div class="row">
+                                    <section class="col col-6">
+                                        <label class="label">Phone Number<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-phone"></i>
+                                            <input type="text" name="tdg_phone" id="tdg_phone">
+                                            <span class="tdg_phone_err color-red"></span>
+                                        </label>
+                                    </section>
+
+                                    <section class="col col-6">
+                                        <label class="label">Company</label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-black-tie"></i>
+                                            <input type="text" name="tdg_company" id="tdg_company" maxlength="50">
+                                            <span class="tdg_company_err color-red"></span>
+                                        </label>
+                                    </section>
+                                </div>
+
+
+                            </fieldset>
+
+                            <div class="form_footer" style="height: 80px; padding-bottom: 10px;">
+                                <!--<input type="submit" name="submit" class="button" value="Download PDF" id="tdg_download" onclick="countIncr(this.id);"/>-->
+                                <a download="" href="../checklists/Driver-checklist-TDG-CA.pdf"
+                                    target="_blank" style="color: #fff" id="download_tdg"
+                                    onclick="return countIncr(this.id);" class="button">Download PDF - TDG</a>
+                            </div>
+
+                        </form>
+                    </div>
+
+                    <div class="col-md-6 mb-xs-30">
+                        <!--<p>
+                       <a download href="http://dgsms.ca/checklist/Driver-checklist-49CFR-USA.pdf"><img src="images/49cfr-checklist.jpg" alt="7-Step Driver Checklist for DG pickup" /></a></br>
+                       <a download href="http://dgsms.ca/checklist/Driver-checklist-49CFR-USA.pdf" target="_blank" style="color: #fff" id="download_49cfr" onclick="return countIncr(this.id);">7-Step Driver Checklist for DG pickup - 49 CFR<br>
+                       Download Pdf</a>
+
+                   </p> -->
+                        <form action="" method="POST" class="dg-form">
+                            <header> 7-Step Driver Checklist for DG pickup - 49CFR <br>Fill the details and Download Pdf
+                                <!-- <span class="reffrd"></span> -->
+                            </header>
+                            <fieldset>
+                                <p><a><img src="../img/49cfr-checklist.jpg"
+                                            alt="7-Step Driver Checklist for DG pickup - 49 CFR"></a><br><br>
+
+                                </p>
+                                <div class="row">
+                                    <section class="col col-6">
+                                        <label class="label">Name<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-user"></i>
+                                            <input type="text" name="cfr49_user_name" id="cfr49_user_name"
+                                                maxlength="50">
+                                            <span class="cfr49_user_name_err color-red"></span>
+                                        </label>
+                                    </section>
+                                    <section class="col col-6">
+                                        <label class="label">E-mail<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-envelope-o"></i>
+                                            <input type="email" name="cfr49_email" id="cfr49_email">
+                                            <span class="cfr49_email_err color-red"></span>
+                                        </label>
+                                    </section>
+                                </div>
+
+                                <div class="row">
+                                    <section class="col col-6">
+                                        <label class="label">Phone Number<span class="color-red-star">*</span></label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-phone"></i>
+                                            <input type="text" name="cfr49_phone" id="cfr49_phone">
+                                            <span class="cfr49_phone_err color-red"></span>
+                                        </label>
+                                    </section>
+
+                                    <section class="col col-6">
+                                        <label class="label">Company</label>
+                                        <label class="input">
+                                            <i class="icon-append fa fa-black-tie"></i>
+                                            <input type="text" required name="cfr49_company" id="cfr49_company"
+                                                maxlength="50">
+                                            <span class="cfr49_company_err color-red"></span>
+                                        </label>
+                                    </section>
+                                </div>
+
+
+                            </fieldset>
+
+                            <div class="form_footer" style="height: 80px; padding-bottom: 10px;">
+                                <!--<input type="submit" name="submit" class="button" value="Download PDF" id="tdg_download" onclick="countIncr(this.id);"/>-->
+                                <a download="" href="../checklists/Driver-checklist-49CFR-USA.pdf"
+                                    target="_blank" style="color: #fff" id="download_49cfr"
+                                    onclick="return countIncr(this.id);" class="button">Download PDF - 49CFR</a> 
+
+                            </div>
+
+                        </form>
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <section class="contact">
+        <div class="container">
+            <div class="contact_header">Not sure what you need?</div>
+            <div class="contact_subheader">Contact US</div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="contact_item">
+                        <div class="contact_contry1">Canada</div>
+                        <a href="tel:+18884098057" class="contact_phone">Toll Free: +1 888 409 8057</a>
+                        <a href="tel:+16138007368" class="contact_phone">Landline: +1 613 800 7368</a>
+                        <a href="mailto:sales@dgsms.ca" class="contact_phone">Email: sales@dgsms.ca</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="contact_item">
+                        <div class="contact_contry1">North America</div>
+                        <a href="tel:+18884098057" class="contact_phone">Toll Free: +1 888 409 8057</a>
+                        <a href="tel:+14088247667" class="contact_phone">Landline: +1 408 824 7667</a>
+                        <a href="mailto:sales@dgsmsusa.com" class="contact_phone">Email: sales@dgsmsusa.com</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="contact_item">
+                        <div class="contact_contry1">India</div>
+                        <a href="tel:+18001025079" class="contact_phone">Toll Free: 1800 102 5079</a>
+                        <a href="tel:+918885835959" class="contact_phone">Landline: +91 888 583 5959</a>
+                        <a href="mailto:sales@dgsms.ca" class="contact_phone">Email: sales@dgsms.ca</a>
+                    </div>
+                </div>
+            </div>
+            <div class="contact_iteml">
+                <a href="https://www.ideabytes.com" target="_blank" class="logo_black"><img class="black_logo"
+                        src="../icn/IDEABYTES_black.png"
+                        alt="Ideabytes logo Web/mobile Solutions Dangerous Goods/HAZMAT Air, Sea, Road Transport (TDG, IATA, IMDG, 49-CFR)"></a>
+            </div>
+     
+        </div>
+    </section>
+    <input type="hidden" class="form-control" name="browserName" id="browserName" value="">
+    <input type="hidden" class="form-control" name="majorVersion" id="majorVersion" value="">
+    <input type="hidden" class="form-control" name="platform" id="platform" value="">
+    <footer>
+        <div class="container">
+            <div class="footer-social-links">
+                        
+                        <a rel="canonical" href="https://www.facebook.com/DGMOBI" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a rel="canonical" href="https://www.facebook.com/dgsmsproducts" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a rel="canonical" href="https://twitter.com/DGSMS_r" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a rel="canonical" href="https://in.linkedin.com/company/ideabytes-inc" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        
+                        
+                    </div>
+			
+            <div class="links_main">
+                <a href="../pages/technical_eng.html" class="licence">Licensing Terms</a>
+                <a href="../pages/technical_eng.html" class="requirements">System Requirements</a>
+                <a href="../pages/technical_eng.html" class="privacy">Privacy Policy</a>
+            </div>
+        </div>
+        <div class="final">Ⓒ Images and text are copyright of Ideabytes® Inc.</div>
+    </footer>
+
+    <script src="../js/jquery-3.4.1.min.js"></script>
+    <script src="../js/script.js"></script>
+
+    <script>
+
+        function sendDetails(browserName, regulation, userName, userEmail, userPhone, userCompany) {
+            $.ajax({
+                url: 'checklist_count.php',
+                method: "POST",
+                data: { browserName: browserName, regulation: regulation, userName: userName, userEmail: userEmail, userPhone: userPhone, userCompany: userCompany },
+                success: function (response, results, jqXHR) {
+                    //alert(response);
+                },
+                error: function (ts) {
+                    alert(JSON.stringify(ts));
+                    return false;
+                }
+            });
+        }
+
+        function checkName(nameVal, nameErrorDisplay) {
+            if (nameVal != "") {
+                var regexp = /^[a-z\d\s]+$/i;
+                if (!(regexp.test(nameVal))) {
+                    $("." + nameErrorDisplay).html("Only alphanumeric and spaces are allowed");
+                    return false;
+                } else {
+                    $("." + nameErrorDisplay).html("");
+                    return true;
+                }
+            } else {
+                $("." + nameErrorDisplay).html("Please enter name");
+                return false;
+            }
+        }
+
+        function checkEmailID(emailid, emailErrorDisplay) {
+            if (emailid != "") {
+                var regexp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+                if (!regexp.test(emailid)) {
+                    $("." + emailErrorDisplay).html("Please provide a valid email");
+                    return false;
+                } else {
+                    $("." + emailErrorDisplay).html("");
+                    return true;
+                }
+            } else {
+                $("." + emailErrorDisplay).html("Please enter email");
+                return false;
+            }
+        }
+
+        function checkPhoneNumber(phNo, errorDisplay) {
+            if (phNo.length > 0) {
+                var regexp = /^[+\d][\d\s]+$/i;
+                if (!regexp.test(phNo)) {
+                    $("." + errorDisplay).html("Please enter a valid phone number");
+                    return false;
+                } else {
+                    if (phNo.length < 10 || phNo.length > 14) {
+                        $("." + errorDisplay).html("Please enter a valid phone number");
+                        return false;
+                    } else {
+                        $("." + errorDisplay).html("");
+                        return true;
+                    }
+                }
+            } else {
+                $("." + errorDisplay).html("Please enter phone number");
+                return false;
+            }
+        }
+
+        function countIncr(pdfType) {
+            $(".color-red").empty();
+            //alert("hi clicked here" + pdfType);
+            var browserName = $("#browserName").val();
+            var regulation = "";
+            var formValidation = true;
+            if (pdfType == "download_tdg") {
+                regulation = "TDG";
+                var userName = $("#tdg_user_name").val().trim();
+                var userEmail = $("#tdg_email").val().trim();
+                var userPhone = $("#tdg_phone").val().trim();
+                var userCompany = $("#tdg_company").val().trim();
+
+                var checkNameValid = checkName(userName, "tdg_user_name_err");
+                if (!checkNameValid) {
+                    formValidation = false;
+                }
+
+                var checkEmailIDValid = checkEmailID(userEmail, "tdg_email_err");
+                if (!checkEmailIDValid) {
+                    formValidation = false;
+                }
+
+                var checkPhoneNumberValid = checkPhoneNumber(userPhone, "tdg_phone_err");
+                if (!checkPhoneNumberValid) {
+                    formValidation = false;
+                }
+
+            } else if (pdfType == "download_49cfr") {
+                regulation = "49 CFR";
+                var userName = $("#cfr49_user_name").val().trim();
+                var userEmail = $("#cfr49_email").val().trim();
+                var userPhone = $("#cfr49_phone").val().trim();
+                var userCompany = $("#cfr49_company").val().trim();
+
+                var checkNameValid = checkName(userName, "cfr49_user_name_err");
+                if (!checkNameValid) {
+                    formValidation = false;
+                }
+
+                var checkEmailIDValid = checkEmailID(userEmail, "cfr49_email_err");
+                if (!checkEmailIDValid) {
+                    formValidation = false;
+                }
+
+                var checkPhoneNumberValid = checkPhoneNumber(userPhone, "cfr49_phone_err");
+                if (!checkPhoneNumberValid) {
+                    formValidation = false;
+                }
+
+            } else {
+                formValidation = false;
+                alert("There is a problem to download, please try again");
+                return false;
+            }
+
+            if (formValidation == true) {
+                sendDetails(browserName, regulation, userName, userEmail, userPhone, userCompany);
+                if (pdfType == "download_tdg") {
+                    $("#tdg_user_name, #tdg_email, #tdg_phone, #tdg_company").val("");
+                } else if (pdfType == "download_49cfr") {
+                    $("#cfr49_user_name, #cfr49_email, #cfr49_phone, #cfr49_company").val("");
+                } else {
+                    $("#tdg_user_name, #tdg_email, #tdg_phone, #tdg_company, #cfr49_user_name, #cfr49_email, #cfr49_phone, #cfr49_company").val("");
+                }
+                return true;
+            } else {
+                return false;
+            }
+        }
+        $(document).ready(function () {
+            browserOsDetailsGather();
+
+        });
+        function browserOsDetailsGather() {
+            var nVer = navigator.appVersion;
+            var nAgt = navigator.userAgent;
+            var browserName = navigator.appName;
+            var fullVersion = '' + parseFloat(navigator.appVersion);
+            var majorVersion = parseInt(navigator.appVersion, 10);
+            var nameOffset, verOffset, ix;
+            // In Opera, the true version is after "Opera" or after "Version"
+            if ((verOffset = nAgt.indexOf("Opera")) != -1) {
+                browserName = "Opera";
+                fullVersion = nAgt.substring(verOffset + 6);
+                if ((verOffset = nAgt.indexOf("Version")) != -1)
+                    fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In MSIE, the true version is after "MSIE" in userAgent
+            else if ((verOffset = nAgt.indexOf("MSIE")) != -1) {
+                browserName = "Microsoft Internet Explorer";
+                fullVersion = nAgt.substring(verOffset + 5);
+            }
+            // In Edge, the true version is after "Edge" 
+            else if ((verOffset = nAgt.indexOf("Edge")) != -1) {
+                browserName = "Edge";
+                fullVersion = nAgt.substring(verOffset + 7);
+            }
+            // In Chrome, the true version is after "Chrome" 
+            else if ((verOffset = nAgt.indexOf("Chrome")) != -1) {
+                browserName = "Chrome";
+                fullVersion = nAgt.substring(verOffset + 7);
+            }
+            // In Safari, the true version is after "Safari" or after "Version" 
+            else if ((verOffset = nAgt.indexOf("Safari")) != -1) {
+                browserName = "Safari";
+                fullVersion = nAgt.substring(verOffset + 7);
+                if ((verOffset = nAgt.indexOf("Version")) != -1)
+                    fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In Firefox, the true version is after "Firefox" 
+            else if ((verOffset = nAgt.indexOf("Firefox")) != -1) {
+                browserName = "Firefox";
+                fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In most other browsers, "name/version" is at the end of userAgent 
+            else if ((nameOffset = nAgt.lastIndexOf(' ') + 1) < (verOffset = nAgt.lastIndexOf('/'))) {
+                browserName = nAgt.substring(nameOffset, verOffset);
+                fullVersion = nAgt.substring(verOffset + 1);
+                if (browserName.toLowerCase() == browserName.toUpperCase()) {
+                    browserName = navigator.appName;
+                }
+            }
+            // trim the fullVersion string at semicolon/space if present
+            if ((ix = fullVersion.indexOf(";")) != -1)
+                fullVersion = fullVersion.substring(0, ix);
+            if ((ix = fullVersion.indexOf(" ")) != -1)
+                fullVersion = fullVersion.substring(0, ix);
+
+            majorVersion = parseInt('' + fullVersion, 10);
+            if (isNaN(majorVersion)) {
+                fullVersion = '' + parseFloat(navigator.appVersion);
+                majorVersion = parseInt(navigator.appVersion, 10);
+            }
+
+            $('#platform').val(navigator.platform);
+            $('#browserName').val(browserName);
+            $('#majorVersion').val(majorVersion);
+        }
+    </script>
+</body>
+
+
+</html>
